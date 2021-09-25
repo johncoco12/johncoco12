@@ -1,16 +1,3 @@
-<!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
-
-<!--
-**Jason-Jesse-Huber/Jason-Jesse-Huber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as trainee in Software Enginering
-- 🌱 I’m currently learning Javascript and Typescript
-- 🤔 I’m Currently interested in RestAPIs
-- 📫 How to reach me: Jason.Jesse.Huber@gmx.de
-
--->
 <h3 title="hehehe"> Hey 👋, I'm Jason!</h3>
 <img src="https://komarev.com/ghpvc/?username=johncoco12&color=blueviolet" align="left">
 
