@@ -14,8 +14,11 @@ A **Software Engineering Student** 🚀 from Germany.
 **About Me!**
 
 - 👨🏽‍💻 I’m currently working as a Trainee at Kobold IT Management.
-- 🌱 I’m currently exploring Javascript with a big interest in RestAPI and Website Building. 
+- 🌱 I’m currently exploring c# . 
 - 🤔 My interests are RestAPIs, Web Services and developing some useful and cool stuff xD
+
+- 💼 Building games with unreal since 2016 :)
+
 - 💼 I’m pursuing a Trainee as a Software Enginer
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [Jason.Jesse.Huber@gmx.de](mailto:Jason.Jesse.Huber@gmx.de).
