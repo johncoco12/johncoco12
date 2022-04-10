@@ -19,7 +19,10 @@ A **Software Engineering Student** 🚀 from Germany.
 
 - 💼 Building games with unreal since 2016 :)
 
-- 💼 I’m pursuing a Trainee as a Software Enginer
+- 🎮 Ultraball (Steam)  https://store.steampowered.com/app/1297710/Ultraball/
+- 🎮 Bakemono (Steam)   https://store.steampowered.com/app/1180650/Bakemono__Demon_Brigade_Tenmen_Unit_01/
+
+- 💼 I’m a Trainee as a Software Enginer
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [Jason.Jesse.Huber@gmx.de](mailto:Jason.Jesse.Huber@gmx.de).
 
