@@ -13,16 +13,15 @@ A **Software Engineering Student** 🚀 from Germany.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a Trainee at Kobold IT Management.
-- 🌱 I’m currently exploring c# . 
-- 🤔 My interests are RestAPIs, Web Services and developing some useful and cool stuff xD
+- 👨🏽‍💻 I’m currently working as a Game Developer @PrivateGears.
+- 🌱 I’m currently exploring HLSL . 
+- 🤔 My interests are Game Development, Web Services and developing some useful and cool stuff xD
 
 - 💼 Building games with unreal since 2016 :)
 
 - 🎮 Ultraball (Steam)  https://store.steampowered.com/app/1297710/Ultraball/
 - 🎮 Bakemono (Steam)   https://store.steampowered.com/app/1180650/Bakemono__Demon_Brigade_Tenmen_Unit_01/
 
-- 💼 I’m a Trainee as a Software Enginer
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [Jason.Jesse.Huber@gmx.de](mailto:Jason.Jesse.Huber@gmx.de).
 
