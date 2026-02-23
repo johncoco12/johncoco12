@@ -10,3 +10,5 @@ I like working close to **microservices, infrastructure, messaging systems, and 
 - 🧪 I like experimenting, breaking things, and learning how they fail
 - 🧩 Passionate about improving developer experience *without* sacrificing power
 - 🌱 Always learning, always pushing boundaries
+
+Use open-source applications — reclaim your independence and break free from proprietary software and corporate control.
